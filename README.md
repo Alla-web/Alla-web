@@ -4,7 +4,7 @@
 
 - 💻 I study and develop real projects
 - 🚀 I create applications with REST API, JWT, PostgreSQL, React, Tailwind
-- 🛠️ I work with Git, Docker, Swagger
+- 🛠️ I work with Git, Docker, Postman, Swagger, Workbanch, MongoDB
 - 💡 I like structured code, clear architecture and working in a team.
 - ❤ I love what I do - сodding and learning
 
@@ -20,4 +20,4 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
