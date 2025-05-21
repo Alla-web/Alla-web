@@ -1,14 +1,16 @@
-# 👋 Hello, I`m Alla!
+# 👋 Hi, there, I`m Alla!
 
 🎯 Junior Full-Stack Developer | Java • Spring Boot • React • TypeScript
 
 - 💻 I study and develop real projects
 - 🚀 I create applications with REST API, JWT, PostgreSQL, React, Tailwind
+- 🛠️ I work with Git, Docker, Swagger
 - 💡 I like structured code, clear architecture and working in a team.
+- ❤ I love what I do - сodding and learning
 
-📫 Contact: umnyj.start@gmail.com
+📫 Contact me: umnyj.start@gmail.com
 
----
+----------------------------------------------------------------------------------------------------
 
 ### 🛠️ My stack:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
