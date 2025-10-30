@@ -1,6 +1,6 @@
 # 👋 Hi, there, I`m Alla!
 
-🎯 Junior Full-Stack Developer | Java • Spring Boot • React • TypeScript
+🎯 Junior Full-Stack Developer | Java • Spring Boot • React • TypeScript • HTML5 • CSS3
 
 - 💻 I study and develop real projects
 - 🚀 I create applications with REST API, JWT, PostgreSQL, React, Tailwind
